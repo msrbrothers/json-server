@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Anika Lodhi",
+      "email": "anika@gmail.com",
+      "id": "ca77a1b0-1d35-4f0a-a660-8a394f1a842dfe"
+    },
+    {
+      "name": "Sapna Lodhi",
+      "email": "sapna@gmail.com",
+      "id": "da76921c-a581-4ecf-8466-e325683eb909"
+    },
+    {
+      "id": "13507f5f-eb34-4751-b410-ef570f40f7d0",
+      "name": "Sanman Lodhi",
+      "email": "sanman@gmail.com"
+    },
+    {
+      "name": "Tester Lodhi",
+      "email": "tester@gmail.com",
+      "id": "a6c3e459-5846-40a2-8c6f-a39b772f68ac"
+    }
+  ]
+}
