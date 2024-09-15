@@ -1,14 +1,18 @@
 {
+  "homepage": "https://msrbrothers.github.io/ReactJS",
   "name": "json-server",
   "version": "1.0.0",
   "description": "It will work like API or server",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 3001 -w db.json "
+    "start": "json-server -p 3001 -w db.json ",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "json-server": "^1.0.0-beta.2"
   }
 }
